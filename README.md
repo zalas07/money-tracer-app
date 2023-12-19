@@ -9,13 +9,17 @@ fitur utama dari aplikasi ini, adalah mencatat pemasukan dan pengeluaran Penggun
 
 Money Tracker App ini digarap oleh tim yang beranggotakan banyak pihak, mulai dari Manajer Proyek, Developer, Cloud Architect, hingga Cloud Engineer (dalam kasus ini adalah Anda). Beruntungnya, source code dan rancangan arsitektur cloud dari Money Tracker App sudah selesai digarap dan siap untuk Anda eksekusi. 
 dan untuk arsitektur yang di rancang di perlihatkan pada gambar di bawah ini:
-https://github.com/zalas07/money-tracer-app/blob/main/arsitektur%20google.jpeg
+![Google Cloud Architecture](https://github.com/zalas07/money-tracer-app/blob/main/arsitektur%20google.jpeg)
 
 ## Kriteria
 
 1. Membuat Project baru
   Untuk memisahkan environment pada Google Cloud, juga memudahkan proses review, buatlah project baru dengan project ID dan project name sesuai ketentuan format   submission-mgce-namapeserta.
-2. 
+2. Memberikan hak akses ke *Reviewer*
+   Usai membuat project baru, tugas kita perlu memberikan hak akses yang sesuai kepada Tim Reviewer  agar tim bisa memeriksa hasil kerja secara mendetail.
+3. Mendeploy Money Tracert App
+   Setelah memahami semua resource yang di berikan, selanjutnya kita perlu men-deploy Money Tracker App ke lingkungan Google Cloud menggunaka source code (Front-End dan Back-End) tersebut dan kita perlu memastikan implementasinya sesuai dengan rancangan arsitektur cloud yang di berikan.
+   
  
    
 
