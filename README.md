@@ -31,8 +31,9 @@ dan untuk arsitektur yang di rancang di perlihatkan pada gambar di bawah ini:
    ![Setting up Cloud Storage Bucket](https://github.com/zalas07/money-tracer-app/blob/main/storage%20bucket2.png)
 4. Update *lifecyle management* dari cloud storage
    ![lifecycle management cloud storage](https://github.com/zalas07/money-tracer-app/blob/main/lifecycle%20management.png)
- 
-   
 
+
+ ## Completion Certificate link
+ [Menjadi Google Cloud Engineer](https://drive.google.com/file/d/1DBF241jEmIwcAmpQqOVH_IxGbHBA85SD/view?usp=sharing)
 
 
