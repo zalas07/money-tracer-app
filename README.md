@@ -11,7 +11,7 @@ Money Tracker App ini digarap oleh tim yang beranggotakan banyak pihak, mulai da
 dan untuk arsitektur yang di rancang di perlihatkan pada gambar di bawah ini:
 ![Google Cloud Architecture](https://github.com/zalas07/money-tracer-app/blob/main/arsitektur%20google.jpeg)
 
-## Kriteria
+## Requirement
 
 1. Membuat Project baru
   Untuk memisahkan environment pada Google Cloud, juga memudahkan proses review, buatlah project baru dengan project ID dan project name sesuai ketentuan format   submission-mgce-namapeserta.
